@@ -1,6 +1,6 @@
- Bandgap-Reference-Circuit-Design-with-Sky130-PDK-
+ Bandgap Reference Circuit Design with Sky130 PDK
  # General 
- file:///home/ridvan/BGR/photo/2_BGR_nocas_3p4pnp_circuit.png
+![2_BGR_nocas_3p4pnp_circuit](https://user-images.githubusercontent.com/84044368/207329027-48ca2c5f-7147-445c-97e2-066f516e525e.png)
 
 # Schematic 
 ![2_BGR_nocas_3p4pnp_finger](https://user-images.githubusercontent.com/84044368/207308572-7b3c3a94-b069-40cf-86f1-fce5a2f5fc93.png)
@@ -16,3 +16,4 @@
 
 # Post-simulation Results
 ![2_BGR_nocas_30k_3p4pnp_Layout_results](https://user-images.githubusercontent.com/84044368/207309199-f6a5816e-f37a-434d-8659-1587638f6632.png)
+
