@@ -1,4 +1,6 @@
-# Bandgap-Reference-Circuit-Design-with-Sky130-PDK-
+ Bandgap-Reference-Circuit-Design-with-Sky130-PDK-
+ # General 
+ file:///home/ridvan/BGR/photo/2_BGR_nocas_3p4pnp_circuit.png
 
 # Schematic 
 ![2_BGR_nocas_3p4pnp_finger](https://user-images.githubusercontent.com/84044368/207308572-7b3c3a94-b069-40cf-86f1-fce5a2f5fc93.png)
